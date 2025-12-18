@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg">
+  <img src="https://img.shields.io/badge/Concurrency-Multiprocessing-orange.svg">
   <img src="https://img.shields.io/badge/Status-Finished-brightpurple">
 </p>
 
